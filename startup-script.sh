@@ -66,7 +66,7 @@ cat <<EOF > /var/www/html/index.html
       </iframe>
       <hr class="w3-border-grey" style="margin:auto;width:40%;margin-top:15px;">
       <h3 class="w3-large w3-center" style="margin-top:15px;">
-        <a href="https://github.com/jdpayne68/cigarmorning/blob/master/startup-script.sh"
+        <a href="https://github.com/jdpayne68/cigarmorning/wp15016503-club-lights-wallpapers.webp"
            class="w3-button w3-transparent w3-border w3-border-white w3-round-large w3-text-white"
            style="margin-bottom:0px;"
            target="_blank">
