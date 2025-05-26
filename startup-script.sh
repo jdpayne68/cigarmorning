@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url('https://wallpapercave.com/w/wp15016503.jpg');
+      background-image: url('https://github.com/jdpayne68/cigarmorning/wp15016503-club-lights-wallpapers.png');
       min-height: 100%;
       background-position: center;
       background-size: cover;
@@ -66,7 +66,7 @@ cat <<EOF > /var/www/html/index.html
       </iframe>
       <hr class="w3-border-grey" style="margin:auto;width:40%;margin-top:15px;">
       <h3 class="w3-large w3-center" style="margin-top:15px;">
-        <a href="https://github.com/jdpayne68/cigarmorning/wp15016503-club-lights-wallpapers.webp"
+        <a href="https://github.com/jdpayne68/cigarmorning/wp15016503-club-lights-wallpapers.png"
            class="w3-button w3-transparent w3-border w3-border-white w3-round-large w3-text-white"
            style="margin-bottom:0px;"
            target="_blank">
