@@ -32,7 +32,7 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url('https://storage.googleapis.com/a-dream/verve.jpg');
+      background-image: url('https://wallpapercave.com/w/wp15016503.jpg');
       min-height: 100%;
       background-position: center;
       background-size: cover;
@@ -56,7 +56,7 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="https://giphy.com/embed/1sv8rIfAtyMsqsqDt8"
+      <iframe src="https://giphy.com/embed/q45X7ovvaPm4u131qA"
               width="500"
               height="270"
               style="border-radius:10px;"
@@ -66,7 +66,7 @@ cat <<EOF > /var/www/html/index.html
       </iframe>
       <hr class="w3-border-grey" style="margin:auto;width:40%;margin-top:15px;">
       <h3 class="w3-large w3-center" style="margin-top:15px;">
-        <a href="https://github.com/Gwenbleidd32/startup-script-template"
+        <a href="https://github.com/jdpayne68/cigarmorning/blob/master/startup-script.sh"
            class="w3-button w3-transparent w3-border w3-border-white w3-round-large w3-text-white"
            style="margin-bottom:0px;"
            target="_blank">
